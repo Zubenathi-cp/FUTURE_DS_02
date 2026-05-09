@@ -13,9 +13,8 @@ Analysis of 7,032 customers with interactive Power BI dashboard.
 |------|---------|
 | Churn Reasons | ![Page 1](page1_churn_reasons.png) |
 | Retention Trends | ![Page 2](page2_retention_trends.png) |
-| Customer Lifetime Value | ![Page 3](page3_customer_lifetime_value.png) |
+| Customer Lifetime Value | ![Page 3](page3_clv.png) |
 | Recommendations | ![Page 4](page4_recommendations.png) |
-
 ## Key Findings
 
 | Metric | Value |
