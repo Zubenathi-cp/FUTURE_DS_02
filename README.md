@@ -79,7 +79,7 @@ Analysis of **7,032 customers** with interactive Power BI dashboard to identify 
 ---
 
 ## Connect With Me
-[Your LinkedIn URL]
+(https://www.linkedin.com/in/zubenathi-mateza-a012b9235/)
 
 ---
 **Future Interns - Data Science & Analytics**
