@@ -7,19 +7,14 @@ Analysis of 7,032 customers with interactive Power BI dashboard.
 - Month-to-month churn: 42.7% (15x higher than two-year)
 - Retained customers stay 20 months longer than churned customers
 
-## Dashboard Pages
+## Dashboard Preview
 
-### Page 1: Churn Reasons
-![Page 1](page1_churn_reasons.png)
-
-### Page 2: Retention Trends
-![Page 2](page2_retention_trends.png)
-
-### Page 3: Customer Lifetime Value
-![Page 3](page3_customer_lifetime_value.png)
-
-### Page 4: Recommendations
-![Page 4](page4_recommendations.png)
+| Page | Preview |
+|------|---------|
+| Churn Reasons | ![Page 1](page1_churn_reasons.png) |
+| Retention Trends | ![Page 2](page2_retention_trends.png) |
+| Customer Lifetime Value | ![Page 3](page3_customer_lifetime_value.png) |
+| Recommendations | ![Page 4](page4_recommendations.png) |
 
 ## Key Findings
 
@@ -32,13 +27,15 @@ Analysis of 7,032 customers with interactive Power BI dashboard.
 | Two year churn | 2.8% |
 | Retained customers tenure | 37.6 months |
 | Churned customers tenure | 18.0 months |
+| Value Gap | 19.6 months |
 
 ## Recommendations
-1. Convert month-to-month to annual contracts (2 months free)
-2. Improve first 90-day onboarding experience
-3. $5/month discount for auto-pay enrollment
-4. Early warning system for high-risk customers
-5. Loyalty rewards at 12, 24, 36 months
+
+1. **Convert Month-to-Month to Annual** - Offer 2 months free for annual commitment
+2. **Improve First 90 Days** - Onboarding emails + check-in calls at days 7,30,60,90
+3. **Incentivize Auto-Pay** - $5/month discount for credit card/bank transfer
+4. **Early Warning System** - Flag tenure<6mo + charges>$80 → auto 20% discount
+5. **Loyalty Rewards** - Milestone rewards at 12, 24, 36 months
 
 ## Tools Used
 - Python (pandas, matplotlib, seaborn)
